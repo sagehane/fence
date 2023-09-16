@@ -24,9 +24,10 @@ and click on `index.html` once going to `localhost`.
 one Red, one Green, and up to 79 Black.
 * Each intersection on the grid is given a coordinate along the two axes and
 ranges from (1, 1) to (9, 9).
-* Each player is ascribed a Red or Green stone and takes turns making a play.
+* Two players are assigned the colours Red and Green respectively and takes
+turns making a play.
 * The game starts with Red and Green stones placed at (4, 5) and (6, 5)
-respectively, on an otherwise empty grid.
+respectively on an otherwise empty grid.
 * A player must follow two procedures to fulfill a play:
   1. They must first place a Black stone at any empty intersection.
   2. They must then move the player's ascribed stone to an empty adjacent
